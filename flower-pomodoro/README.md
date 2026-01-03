@@ -1,6 +1,6 @@
 ## Flower Pomodoro
 
-<img alt="flower-pomodoro screenshot" src="screenshot-flower-pomodoro.png"/>
+<img width="400" height="600"  alt="flower-pomodoro screenshot" src="screenshot-flower-pomodoro.png"/>
 
 See it in action here https://editor.p5js.org/nadia-nh/full/NZ9HCfpnp
 
