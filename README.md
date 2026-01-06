@@ -10,3 +10,6 @@ Code that is used for artistic expression, mainly using p5.js and shaders.
 
 ## [Flower Pomodoro](https://github.com/nadia-nh/rc-creative-coding/tree/main/flower-pomodoro)
 [<img width="400" height="600" alt="flower-pomodoro screenshot" src="flower-pomodoro/screenshot-flower-pomodoro.png"/>](https://editor.p5js.org/nadia-nh/full/NZ9HCfpnp)
+
+## [Rainbow Spiral](https://github.com/nadia-nh/rc-creative-coding/tree/main/rainbow-spiral)
+<img width="640" height="480" alt="rainbow-spiral screenshot" src="rainbow-spiral/screenshot-rc-rainbow-spiral.png"/>
