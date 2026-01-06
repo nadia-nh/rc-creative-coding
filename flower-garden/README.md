@@ -1,6 +1,6 @@
 ## Flower Garden
 
-<img width="640" height="480" alt="flower-garden screenshot" src="screenshot-flower-garden.png" />
+<img width="640" height="480" alt="flower-garden screenshot" src="screenshot-rc-flower-garden.png" />
 
 See it in action here https://editor.p5js.org/nadia-nh/full/H0Lgt_z6k
 
