@@ -13,3 +13,6 @@ Code that is used for artistic expression, mainly using p5.js and shaders.
 
 ## [Rainbow Spiral](https://github.com/nadia-nh/rc-creative-coding/tree/main/rainbow-spiral)
 [<img width="640" height="480" alt="rainbow-spiral screenshot" src="rainbow-spiral/screenshot-rc-rainbow-spiral.png"/>](https://www.shadertoy.com/view/33SBDD)
+
+## [Rings And Planets](https://github.com/nadia-nh/rc-creative-coding/tree/main/rings-and-planets)
+[<img width="640" height="480" alt="rings-planets screenshot" src="rings-and-planets/screenshot-rc-rings-planets.png"/>](https://www.shadertoy.com/view/W3jBWW)
