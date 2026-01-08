@@ -5,7 +5,7 @@
  * This version adds color dynamics, adapts and refactors the drawing logic.
  */
 
-// --- Shadertoy Uniforms ---
+// Shadertoy Inputs
 uniform vec3  iResolution; // viewport resolution (in pixels)
 uniform float iTime;       // shader playback time (in seconds)
 
