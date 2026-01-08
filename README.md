@@ -19,3 +19,7 @@ Code that is used for artistic expression, mainly using p5.js and shaders.
 
 ## [Shifting Spheres](https://github.com/nadia-nh/rc-creative-coding/tree/main/shifting-spheres)
 [<img width="640" height="480" alt="shifting-spheres screenshot" src="screenshot-rc-shifting-spheres.png"/>](https://www.shadertoy.com/view/tc3cWN)
+
+---
+
+Made with <3 at [The Recurse Center](https://recurse.com).
