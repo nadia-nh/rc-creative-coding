@@ -1,7 +1,6 @@
 // Shadertoy Inputs
-uniform vec3      iResolution;  // viewport resolution (in pixels)
-uniform float     iTime;        // shader playback time (in seconds)
-uniform sampler2D iChannel0;    // input channel 0 (if you use textures)
+uniform vec3  iResolution; // viewport resolution (in pixels)
+uniform float iTime;       // shader playback time (in seconds)
 
 void mainImage(out vec4 fragColor, in vec2 fragCoord)
 {
