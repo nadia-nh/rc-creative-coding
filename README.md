@@ -18,7 +18,7 @@ Code that is used for artistic expression, mainly using p5.js and shaders.
 [<img width="640" height="480" alt="rings-planets screenshot" src="rings-and-planets/screenshot-rc-rings-planets.png"/>](https://www.shadertoy.com/view/W3jBWW)
 
 ## [Shifting Spheres](https://github.com/nadia-nh/rc-creative-coding/tree/main/shifting-spheres)
-[<img width="640" height="480" alt="shifting-spheres screenshot" src="screenshot-rc-shifting-spheres.png"/>](https://www.shadertoy.com/view/tc3cWN)
+[<img width="640" height="480" alt="shifting-spheres screenshot" src="shifting-spheres/screenshot-rc-shifting-spheres.png"/>](https://www.shadertoy.com/view/tc3cWN)
 
 ---
 
