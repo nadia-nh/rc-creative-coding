@@ -11,6 +11,9 @@ Code that is used for artistic expression, mainly using p5.js and shaders.
 ## [Flower Pomodoro](https://github.com/nadia-nh/rc-creative-coding/tree/main/flower-pomodoro)
 [<img width="400" height="600" alt="flower-pomodoro screenshot" src="flower-pomodoro/screenshot-rc-flower-pomodoro.png"/>](https://editor.p5js.org/nadia-nh/full/NZ9HCfpnp)
 
+## [Recursive Geometry](https://github.com/nadia-nh/rc-creative-coding/tree/main/recursive-geometry)
+[<img width="640" height="480" alt="recursive-geometry screenshot" src="recursive-geometry/screenshot-rc-recursive-tree.png"/>](https://editor.p5js.org/nadia-nh/full/4X5ojv4IQ)
+
 ## [Rainbow Spiral](https://github.com/nadia-nh/rc-creative-coding/tree/main/rainbow-spiral)
 [<img width="640" height="480" alt="rainbow-spiral screenshot" src="rainbow-spiral/screenshot-rc-rainbow-spiral.png"/>](https://www.shadertoy.com/view/33SBDD)
 
